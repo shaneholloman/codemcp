@@ -1,3 +1,8 @@
+NOTICE: claude code is available with Anthropic's $20/mo subscription, so I consider
+codemcp fully obsolete.  However, there are some good design ideas (especially around
+the Git-versioning scheme) that I eventually want to port into the current generation
+of agentic coding clis.
+
 # codemcp
 
 Make Claude Desktop a pair programming assistant by installing codemcp.  With
